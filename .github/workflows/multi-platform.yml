@@ -207,7 +207,7 @@ jobs:
           echo - Release name: $RELEASE_NAME
           echo - Release body:
           echo $uwu
-          echo ------
+          echo -------
           
           response=$(curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
