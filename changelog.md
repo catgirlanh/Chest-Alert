@@ -1,4 +1,7 @@
 
+## <cy>v1.0.6</c> (2024-08-18)
+fbdbsn
+
 ## <cy>v1.0.5</c> (2024-08-18)
 slightly used on ebay
 # Changelog
