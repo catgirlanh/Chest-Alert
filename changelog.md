@@ -1,3 +1,6 @@
+
+## <cy>v1.0.5</c> (2024-08-18)
+slightly used on ebay
 # Changelog
 ## <cg>v1.0.2</c>
 * ex mark now dissapears after opening all chests
